@@ -79,7 +79,7 @@
 
 </p>
 
-[![LazizbekShodmonov's github stats](https://github-readme-stats.vercel.app/api?username=bekjon-me&show_icons=true&theme=react)](https://github.com/lazizbekshodmonov/github-readme-stats)
+[![LazizbekShodmonov's github stats](https://github-readme-stats.vercel.app/api?username=lazizbekshodmonov&show_icons=true&theme=react)](https://github.com/lazizbekshodmonov/github-readme-stats)
 
 ### Using languages
 
