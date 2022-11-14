@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lazizbek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning React, React-redux, Redux-toolit
+- 🌱 I’m currently learning React, React-redux, Redux-toolit, Context Api
 
 - 💬 Ask me about React, firebase
 
